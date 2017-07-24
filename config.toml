@@ -44,11 +44,10 @@ googleAnalytics = ""
     # github  = "digitalcraftsman"
     # email   = "hello@email.com"
 
-
-[[menu.main]]
-    name   = "Material"
-    url    = "/"
-    weight = 0
+# [[menu.main]]
+#    name   = "Material"
+#    url    = "/"
+#    weight = 0
 
 # [[menu.main]]
 #     name   = "Getting started"
@@ -76,3 +75,50 @@ googleAnalytics = ""
     fractions = true
     smartDashes = true
     plainIDAnchors = true
+
+
+[[menu.main]]
+    name   = "Home"
+    url    = "/"
+    weight = 1
+
+[[menu.main]]
+    name   = "Introduction"
+    url    = "introduction/"
+    weight = 10      
+
+[[menu.main]]
+    name   = "Digital Experience Design Principals"
+    url    = "digital-experience-design-principals/"
+    weight = 20      
+
+[[menu.main]]
+    name   = "Visual Design Foundations"
+    url    = "visual-design-foundations/"
+    weight = 30      
+
+[[menu.main]]
+    name   = "UX and UI Guidelines"
+    url    = "ux-and-ui-guidelines/"
+    weight = 40      
+
+[[menu.main]]
+    name   = "UI Text"
+    url    = "ui-text/"
+    weight = 50
+
+[[menu.main]]
+    name   = "Inclusive Design"
+    url    = "inclusive-design/"
+    weight = 60 
+
+[[menu.main]]
+    name   = "Platforms"
+    url    = "platforms/"
+    weight = 70 
+ 
+ [[menu.main]]
+    name   = "Auckland Museum Assets"
+    url    = "auckland-museum-assets/"
+    weight = 80 
+ 

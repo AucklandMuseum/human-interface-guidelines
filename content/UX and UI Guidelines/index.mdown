@@ -1,0 +1,47 @@
+---
+title: UX and UI Guidelines
+---
+
+## Icons and buttons
+
+The Museum uses the Material Design icons. [Download these here](https://material.io/icons/).
+
+### Custom icons
+If you need to create an icon which is not in the Material Design set, or reverse an existing icon due to poor contrast, make sure it aligns with the design of other icons (eg in circle diameter). 
+
+Buttons can comprise of icons or text. Please adhere to the [Material Design button guidelines](https://material.io/guidelines/components/buttons.html), noting the following:
+
+• The exact dp guidelines do not have to be matched
+
+• Select from the three button types as appropriate
+
+• Do not use capitals – use sentence case
+
+## Interaction Design
+
+>An emphasis on user actions makes core functionality immediately apparent and provides waypoints
+for the user.” *- Google material design*
+
+### Motion Scrolling and gestures
+
+>“Motion is meaningful and appropriate, serving to focus attention and maintain continuity.” - Google material design
+
+Motion, scrolling, and gestures should follow Material Design guidelines. As visitors are moving through the Museum engaging with different digital products, they should be able to use the same natural gestures and expect consistent results. 
+
+Adhere to the Material Design guidelines below, unless they are out of scope for your project brief (ie no pinch and zoom is required):
+
+• [Motion](https://material.io/guidelines/motion/material-motion.html)
+
+• [Gestures](https://material.io/guidelines/patterns/gestures.html)
+
+• [Scrolling](https://material.io/guidelines/patterns/scrolling-techniques.html)
+
+[Embed video about motion](https://material.io/guidelines/motion/material-motion.html)
+
+### Cues and calls-to-action
+Te Papa have guidelines on creating a [Call-to-action](https://te-papa.github.io/_pages/principles/call-to-action/), which should be adhered to.
+
+### Attractor loops
+Attractor states to alert visitors to the interactive may be required, such as a splash screen or a loop, once a session has ended.
+
+[Additional interaction design content]
