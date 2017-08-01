@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auckland Museum</title>
-    <link>http://example.org/</link>
+    <link>https://aucklandmuseum.github.io/human-interface-guidelines/</link>
     <description>Recent content on Auckland Museum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aucklandmuseum.github.io/human-interface-guidelines/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Auckland Museum - Human Interface Digital Guidelines</title>
-      <link>http://example.org/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/</guid>
       <description>Overview The aim of the Auckland Museum HIGs is to promote a coherent look and feel and visitor experience across multiple galleries and over time.
 These guidelines are in the early stages of development. They draw on various Auckland Museum resources, Google’s Material Design, and Te Papa’s Digital Language System.
 Throughout the guidelines, we specify what you should ‘refer to’ – meaning use as guidelines or reference; and what you should ‘adhere to’ - compulsory elements.</description>
@@ -23,10 +23,10 @@ Throughout the guidelines, we specify what you should ‘refer to’ – meaning
     
     <item>
       <title>Auckland Museum Assets</title>
-      <link>http://example.org/auckland-museum-assets/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/auckland-museum-assets/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</guid>
       <description> Auckland Museum Logos Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Auckland Museum Style Guide (Draft) Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Related  Download the Auckland museum graphic style guide
@@ -36,20 +36,20 @@ Related  Download the Auckland museum graphic style guide
     
     <item>
       <title>Digital Experience Design Principals</title>
-      <link>http://example.org/digital-experience-design-principals/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/digital-experience-design-principals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/digital-experience-design-principals/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/digital-experience-design-principals/</guid>
       <description>Overview The Auckland Museum DXDPs were developed over a number of iterations of an initial set of principles collaboratively created for the Taku Tāmaki – Auckland Stories exhibition in 2014 and include insights from an environment scan across international museums. They have been peer reviewed by the Museum’s Digital Advisory Group.
 Extending the Gallery Renewal Principles and Visitor Market research insights, the Digital Experience Design Principles are high-level statements around ‘digital experiences’ at Auckland Museum.</description>
     </item>
     
     <item>
       <title>Inclusive Design</title>
-      <link>http://example.org/inclusive-design/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/inclusive-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/inclusive-design/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/inclusive-design/</guid>
       <description>Digital products must be universally accessible. Some elements of accessibility will sit outside of your brief, such as placement and casing for an interactive.
 Adhere to Te Papa’s principles on Accessibility, as well as the Material Design Accessibility guidelines.
 You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.
@@ -58,19 +58,19 @@ Material Accessibility</description>
     
     <item>
       <title>Introduction</title>
-      <link>http://example.org/introduction/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/introduction/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/introduction/</guid>
       <description>Designing for the museum context Our Visitors The visitor journey often starts outside of the physical Museum via the Auckland Museum website or social media channels outside, which lead to a museum visit, and multiple passive and active digital interactions during the stay. Visitors may collect or generate personalised content to take away or build-upon after their visit, and these interacts with our online channels may lead on to their next visit.</description>
     </item>
     
     <item>
       <title>Platforms</title>
-      <link>http://example.org/platforms/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/platforms/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/platforms/</guid>
       <description>Brightsign When building for BrightSign, it is best to compile and streamline as if you are building for Android, then create layout and front end interactions as if for a desktop / your screen size.
 You should receive a BrightSign player to test your software on. You will also need to download and use BrightAuthor to compile your interactive ready for testing on the BrightSign player.
 It is essential you read the following guidelines on building for BrightSign:</description>
@@ -78,10 +78,10 @@ It is essential you read the following guidelines on building for BrightSign:</d
     
     <item>
       <title>UI Text</title>
-      <link>http://example.org/ui-text/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/ui-text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ui-text/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/ui-text/</guid>
       <description> Multilinual Interfaces You may receive more guidance on the use of te reo Māori as part of your brief.
 You must also adhere the Auckland Museum style guide, appendix item 8.3. This includes guidelines on the use of te reo Māori
 Please also refer to the Te Papa UI control label text guide
@@ -91,10 +91,10 @@ Optional Caption  </description>
     
     <item>
       <title>UX and UI Guidelines</title>
-      <link>http://example.org/ux-and-ui-guidelines/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/ux-and-ui-guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/ux-and-ui-guidelines/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/ux-and-ui-guidelines/</guid>
       <description>Icons and buttons The Museum uses the Material Design icons. Download these here.
 Custom icons If you need to create an icon which is not in the Material Design set, or reverse an existing icon due to poor contrast, make sure it aligns with the design of other icons (eg in circle diameter).
 Buttons can comprise of icons or text. Please adhere to the Material Design button guidelines, noting the following:</description>
@@ -102,10 +102,10 @@ Buttons can comprise of icons or text. Please adhere to the Material Design butt
     
     <item>
       <title>Visual Design Foundations</title>
-      <link>http://example.org/visual-design-foundations/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/visual-design-foundations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/visual-design-foundations/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/visual-design-foundations/</guid>
       <description>“The foundational elements of print-based design – typography, grids, space, scale, color, and use of imagery – guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus.” - Google material design
 Typography Gotham Narrow is the Auckland Museum typeface. We use two variations of Gotham Narrow — Regular and Bold. This typeface must be used in all digital products. The Gotham Narrow Font family was designed and is distributed by Hoefler &amp;amp; Co.</description>
     </item>

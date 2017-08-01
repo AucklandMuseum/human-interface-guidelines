@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Experience Design Principals on Auckland Museum</title>
-    <link>http://example.org/digital-experience-design-principals/</link>
+    <link>https://aucklandmuseum.github.io/human-interface-guidelines/digital-experience-design-principals/</link>
     <description>Recent content in Digital Experience Design Principals on Auckland Museum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/digital-experience-design-principals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aucklandmuseum.github.io/human-interface-guidelines/digital-experience-design-principals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Digital Experience Design Principals</title>
-      <link>http://example.org/digital-experience-design-principals/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/digital-experience-design-principals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/digital-experience-design-principals/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/digital-experience-design-principals/</guid>
       <description>Overview The Auckland Museum DXDPs were developed over a number of iterations of an initial set of principles collaboratively created for the Taku Tāmaki – Auckland Stories exhibition in 2014 and include insights from an environment scan across international museums. They have been peer reviewed by the Museum’s Digital Advisory Group.
 Extending the Gallery Renewal Principles and Visitor Market research insights, the Digital Experience Design Principles are high-level statements around ‘digital experiences’ at Auckland Museum.</description>
     </item>

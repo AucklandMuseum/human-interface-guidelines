@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auckland Museum Assets on Auckland Museum</title>
-    <link>http://example.org/auckland-museum-assets/</link>
+    <link>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</link>
     <description>Recent content in Auckland Museum Assets on Auckland Museum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/auckland-museum-assets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Auckland Museum Assets</title>
-      <link>http://example.org/auckland-museum-assets/</link>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/auckland-museum-assets/</guid>
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</guid>
       <description> Auckland Museum Logos Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Auckland Museum Style Guide (Draft) Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Related  Download the Auckland museum graphic style guide
