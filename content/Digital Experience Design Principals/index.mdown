@@ -2,6 +2,8 @@
 title: Digital Experience Design Principals
 ---
 
+## Overview
+
 The Auckland Museum DXDPs were developed over a number of iterations of an initial set of principles collaboratively created for the Taku Tāmaki – Auckland Stories exhibition in 2014 and include insights from an environment scan across international museums. They have been peer reviewed by the Museum’s Digital Advisory Group. 
 
 Extending the Gallery Renewal Principles and Visitor Market research insights, the Digital Experience Design Principles are high-level statements around ‘digital experiences’ at Auckland Museum.
@@ -34,6 +36,8 @@ Visitors can have a digital museum experience from wherever they are in their vi
 9. ### Sustainable, future proof, modular, disposable
 Where possible, content is created in a modular and endpoint- agnostic way (‘COPE’), building on existing backend systems, APIs, and infrastructure. Siloed, ‘black-box’ experiences are avoided. A plan for regular testing, evaluation and improvement of the digital experience is in place. System and hardware upgrades are scheduled.
 
+---
+
 ## Material Design
 
 Google’s [Material Design link](https://material.io/) is a unified system that combines theory, resources, and tools for crafting
@@ -46,6 +50,8 @@ When using Material Design, refer to the Auckland Museum HIGs first – as thing
 You are welcome to use Material Design elements which are not directly linked to from the Auckland Museum HIGs. Modular and customisable Material Design UI components are available on [Github](https://github.com/material-components).
 
 [https://material.io/guidelines/#introduction-principles](https://material.io/guidelines/#introduction-principles)
+
+---
 
 ## Analytics
 

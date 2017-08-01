@@ -2,22 +2,27 @@
 title: Visual Design Foundations
 ---
 
-*“The foundational elements of print-based design – typography, grids, space, scale, color, and use of imagery – guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus.” (Google material design)*
+*“The foundational elements of print-based design – typography, grids, space, scale, color, and use of imagery – guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus.” - Google material design*
 
 ## Typography
 
 Gotham Narrow is the Auckland Museum typeface. We use two variations of Gotham Narrow — Regular and Bold. This typeface must be used in all digital products. The Gotham Narrow Font family was designed and is distributed by Hoefler & Co. You are required to purchase a license here .
 
-### Related
-[Auckland museum graphic style guide](https://google.com)
 
-[Auckland Museum writing style guide](https://google.com)
+### Related
+* [Auckland museum graphic style guide](https://google.com)
+
+* [Auckland Museum writing style guide](https://google.com)
+
+---
 
 ## Colour
 
 Colour should be consistent with the gallery or exhibition your digital product sits in. You will be provided with a colour palette to adhere to.
 
 In choosing background and text colours, the [Material Design Colour](https://material.io/color/#!/) Tool has an accessibility feature which can be used to check contrast and text eligibility.
+
+---
 
 ## Layout
 

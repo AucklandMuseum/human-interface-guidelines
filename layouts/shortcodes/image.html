@@ -1,0 +1,18 @@
+{{- $src := .Get "src" -}}
+{{- $title := .Get "title" -}}
+{{- $cap := .Get "caption" -}}
+{{- with .Parent -}}
+	<div class="image half">
+		<p class="image-title">{{$title}}</p>
+  		<img src="{{$src}}">
+			<small>{{$cap}}</small>
+  	</div>
+{{- else -}}
+ 	<div class="image full">
+		<p class="image-title">{{$title}}</p>
+  		<img src="{{$src}}">
+  		{{ if isset .Params "caption" }}
+			<small>{{$cap}}</small>
+  		{{end}}
+  	</div>
+{{- end }}

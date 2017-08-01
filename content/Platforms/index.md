@@ -10,8 +10,8 @@ You should receive a BrightSign player to test your software on. You will also n
 
 It is essential you read the following guidelines on building for BrightSign:
 
-• [Best Practices](http://docs.brightsign.biz/display/DOC/Best+Practices)
+* [Best Practices](http://docs.brightsign.biz/display/DOC/Best+Practices)
 
-• [Known Issues](http://docs.brightsign.biz/display/DOC/Known+Issues)
+* [Known Issues](http://docs.brightsign.biz/display/DOC/Known+Issues)
 
-• [Diagnostic Web Server](http://docs.brightsign.biz/display/DOC/Diagnostic+Web+Server)
+* [Diagnostic Web Server](http://docs.brightsign.biz/display/DOC/Diagnostic+Web+Server)

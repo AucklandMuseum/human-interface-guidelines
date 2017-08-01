@@ -6,13 +6,14 @@ title: Auckland Museum Assets
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
+---
+
 ## Auckland Museum Style Guide (Draft)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
+### Related
 
-## Related
+* Download the Auckland museum graphic style guide
 
-Download the Auckland museum graphic style guide
-
-Download the Auckland Museum writing style guide
+* Download the Auckland Museum writing style guide

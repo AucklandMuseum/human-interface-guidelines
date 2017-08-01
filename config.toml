@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Human Interface Guidelines"
+title = "Auckland Museum"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -18,21 +18,21 @@ googleAnalytics = ""
     # repo_url = "<github>"
 
     # version = "1.0.0"
-    logo = "images/logo.png"
+    logo = "images/logo2.png"
     # favicon = ""
 
     permalink = "#"
 
     # Custom assets
-    custom_css = []
+    custom_css = ["stylesheets/custom.css"]
     custom_js  = []
 
     # Syntax highlighting theme
     highlight_css  = ""
 
     [params.palette]
-        primary = "blue-grey"
-        accent  = "teal"
+        primary = "museum-black"
+        accent  = "museum-grey"
 
     [params.font]
         text = "Roboto"
@@ -77,10 +77,6 @@ googleAnalytics = ""
     plainIDAnchors = true
 
 
-[[menu.main]]
-    name   = "Home"
-    url    = "/"
-    weight = 1
 
 [[menu.main]]
     name   = "Introduction"

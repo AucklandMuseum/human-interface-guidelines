@@ -11,16 +11,24 @@ If you need to create an icon which is not in the Material Design set, or revers
 
 Buttons can comprise of icons or text. Please adhere to the [Material Design button guidelines](https://material.io/guidelines/components/buttons.html), noting the following:
 
-• The exact dp guidelines do not have to be matched
+* The exact dp guidelines do not have to be matched
 
-• Select from the three button types as appropriate
+* Select from the three button types as appropriate
 
-• Do not use capitals – use sentence case
+* Do not use capitals – use sentence case
+
+---
 
 ## Interaction Design
 
 >An emphasis on user actions makes core functionality immediately apparent and provides waypoints
-for the user.” *- Google material design*
+for the user.” - Google material design
+
+{{< gallery class="image-group" >}}
+  {{< image src="http://via.placeholder.com/850x550" title="Image Title" caption="Optional Caption" >}}
+  {{< image src="http://via.placeholder.com/850x550" title="Image Title" caption="Optional Caption" >}}
+{{< /gallery >}}
+
 
 ### Motion Scrolling and gestures
 
@@ -30,13 +38,15 @@ Motion, scrolling, and gestures should follow Material Design guidelines. As vis
 
 Adhere to the Material Design guidelines below, unless they are out of scope for your project brief (ie no pinch and zoom is required):
 
-• [Motion](https://material.io/guidelines/motion/material-motion.html)
+* [Motion](https://material.io/guidelines/motion/material-motion.html)
 
-• [Gestures](https://material.io/guidelines/patterns/gestures.html)
+* [Gestures](https://material.io/guidelines/patterns/gestures.html)
 
-• [Scrolling](https://material.io/guidelines/patterns/scrolling-techniques.html)
+* [Scrolling](https://material.io/guidelines/patterns/scrolling-techniques.html)
 
-[Embed video about motion](https://material.io/guidelines/motion/material-motion.html)
+
+{{< youtube src="cQzien5H2Do" title="Google Material Design Motion" >}}
+
 
 ### Cues and calls-to-action
 Te Papa have guidelines on creating a [Call-to-action](https://te-papa.github.io/_pages/principles/call-to-action/), which should be adhered to.
