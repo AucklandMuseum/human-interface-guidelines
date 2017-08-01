@@ -7,6 +7,8 @@ canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 
+publishDir = "docs"
+
 [params]
     logo = "images/logo2.png"
 
