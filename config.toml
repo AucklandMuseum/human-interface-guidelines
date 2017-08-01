@@ -8,18 +8,7 @@ canonifyurls = true
 googleAnalytics = ""
 
 [params]
-    # General information
-    # author = "Digitalcraftsman"
-    # description = "A material design theme for documentations."
-    # copyright = "Released under the MIT license"
-
-    # Repository
-    # provider = "GitHub"
-    # repo_url = "<github>"
-
-    # version = "1.0.0"
     logo = "images/logo2.png"
-    # favicon = ""
 
     permalink = "#"
 
@@ -39,37 +28,6 @@ googleAnalytics = ""
         code = "Roboto Mono"
 
 
-[social]
-    # twitter = ""
-    # github  = "digitalcraftsman"
-    # email   = "hello@email.com"
-
-# [[menu.main]]
-#    name   = "Material"
-#    url    = "/"
-#    weight = 0
-
-# [[menu.main]]
-#     name   = "Getting started"
-#     url    = "getting-started/"
-#     weight = 10
-
-# [[menu.main]]
-#     name   = "Adding content"
-#     url    = "adding-content/"
-#     weight = 20
-
-# [[menu.main]]
-#     name   = "Roadmap"
-#     url    = "roadmap/"
-#     weight = 30
-
-# [[menu.main]]
-#     name   = "License"
-#     url    = "license/"
-#     weight = 40
-
-
 [blackfriday]
     smartypants = true
     fractions = true
@@ -77,26 +35,25 @@ googleAnalytics = ""
     plainIDAnchors = true
 
 
-
 [[menu.main]]
     name   = "Introduction"
     url    = "introduction/"
-    weight = 10      
+    weight = 10
 
 [[menu.main]]
     name   = "Digital Experience Design Principals"
     url    = "digital-experience-design-principals/"
-    weight = 20      
+    weight = 20
 
 [[menu.main]]
     name   = "Visual Design Foundations"
     url    = "visual-design-foundations/"
-    weight = 30      
+    weight = 30
 
 [[menu.main]]
     name   = "UX and UI Guidelines"
     url    = "ux-and-ui-guidelines/"
-    weight = 40      
+    weight = 40
 
 [[menu.main]]
     name   = "UI Text"
@@ -106,15 +63,15 @@ googleAnalytics = ""
 [[menu.main]]
     name   = "Inclusive Design"
     url    = "inclusive-design/"
-    weight = 60 
+    weight = 60
 
 [[menu.main]]
     name   = "Platforms"
     url    = "platforms/"
-    weight = 70 
- 
+    weight = 70
+
  [[menu.main]]
     name   = "Auckland Museum Assets"
     url    = "auckland-museum-assets/"
-    weight = 80 
- 
+    weight = 80
+
