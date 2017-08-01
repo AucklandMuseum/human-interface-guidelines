@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX and UI Guidelines on Auckland Museum</title>
+    <link>http://example.org/ux-and-ui-guidelines/</link>
+    <description>Recent content in UX and UI Guidelines on Auckland Museum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/ux-and-ui-guidelines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UX and UI Guidelines</title>
+      <link>http://example.org/ux-and-ui-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/ux-and-ui-guidelines/</guid>
+      <description>Icons and buttons The Museum uses the Material Design icons. Download these here.
+Custom icons If you need to create an icon which is not in the Material Design set, or reverse an existing icon due to poor contrast, make sure it aligns with the design of other icons (eg in circle diameter).
+Buttons can comprise of icons or text. Please adhere to the Material Design button guidelines, noting the following:</description>
+    </item>
+    
+  </channel>
+</rss>
