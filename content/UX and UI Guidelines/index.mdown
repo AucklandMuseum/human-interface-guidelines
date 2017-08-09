@@ -7,7 +7,7 @@ title: UX and UI Guidelines
 The Museum uses the Material Design icons. [Download these here](https://material.io/icons/).
 
 ### Custom icons
-If you need to create an icon which is not in the Material Design set, or reverse an existing icon due to poor contrast, make sure it aligns with the design of other icons (eg in circle diameter). 
+If you need to create an icon which is not in the Material Design set, or reverse an existing icon due to poor contrast, make sure it aligns with the design of other icons (eg in circle diameter).
 
 Buttons can comprise of icons or text. Please adhere to the [Material Design button guidelines](https://material.io/guidelines/components/buttons.html), noting the following:
 
@@ -24,17 +24,13 @@ Buttons can comprise of icons or text. Please adhere to the [Material Design but
 >An emphasis on user actions makes core functionality immediately apparent and provides waypoints
 for the user.” - Google material design
 
-{{< gallery class="image-group" >}}
-  {{< image src="http://via.placeholder.com/850x550" title="Image Title" caption="Optional Caption" >}}
-  {{< image src="http://via.placeholder.com/850x550" title="Image Title" caption="Optional Caption" >}}
-{{< /gallery >}}
-
+{{< vimeo src="228890944">}}
 
 ### Motion Scrolling and gestures
 
 >“Motion is meaningful and appropriate, serving to focus attention and maintain continuity.” - Google material design
 
-Motion, scrolling, and gestures should follow Material Design guidelines. As visitors are moving through the Museum engaging with different digital products, they should be able to use the same natural gestures and expect consistent results. 
+Motion, scrolling, and gestures should follow Material Design guidelines. As visitors are moving through the Museum engaging with different digital products, they should be able to use the same natural gestures and expect consistent results.
 
 Adhere to the Material Design guidelines below, unless they are out of scope for your project brief (ie no pinch and zoom is required):
 

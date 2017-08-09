@@ -29,3 +29,5 @@ In choosing background and text colours, the [Material Design Colour](https://ma
 We recognise the layout of an interactive will depend largely on the content and creative interpretation of the brief. Refer to Te Papa’s foundational guidelines on [Layout](https://te-papa.github.io/_pages/principles/layout/).
 
 Other layout elements can be inspired by the 2D design in the relevant gallery or exhibition.
+
+{{< vimeo src="228890797">}}

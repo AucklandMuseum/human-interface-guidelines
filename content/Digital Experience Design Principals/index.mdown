@@ -4,7 +4,7 @@ title: Digital Experience Design Principals
 
 ## Overview
 
-The Auckland Museum DXDPs were developed over a number of iterations of an initial set of principles collaboratively created for the Taku Tāmaki – Auckland Stories exhibition in 2014 and include insights from an environment scan across international museums. They have been peer reviewed by the Museum’s Digital Advisory Group. 
+The Auckland Museum DXDPs were developed over a number of iterations of an initial set of principles collaboratively created for the Taku Tāmaki – Auckland Stories exhibition in 2014 and include insights from an environment scan across international museums. They have been peer reviewed by the Museum’s Digital Advisory Group.
 
 Extending the Gallery Renewal Principles and Visitor Market research insights, the Digital Experience Design Principles are high-level statements around ‘digital experiences’ at Auckland Museum.
 
@@ -41,15 +41,17 @@ Where possible, content is created in a modular and endpoint- agnostic way (‘C
 ## Material Design
 
 Google’s [Material Design link](https://material.io/) is a unified system that combines theory, resources, and tools for crafting
-digital experiences - a universal design language. 
+digital experiences - a universal design language.
 
-[insert Material Design video: https://www.youtube.com/watch?v=jE1EU1ACe6s ]
+{{< youtube src="jE1EU1ACe6s">}}
 
-We reference Material Design throughout our HIGs. Material Design is an evolving spec and is one of the pre-eminent systems for creating digital experiences therefore it makes sense to leverage the immense resource and development effort to inform our Human Interface Guidelines. 
+We reference Material Design throughout our HIGs. Material Design is an evolving spec and is one of the pre-eminent systems for creating digital experiences therefore it makes sense to leverage the immense resource and development effort to inform our Human Interface Guidelines.
 When using Material Design, refer to the Auckland Museum HIGs first – as things like typography and icons are different.
 You are welcome to use Material Design elements which are not directly linked to from the Auckland Museum HIGs. Modular and customisable Material Design UI components are available on [Github](https://github.com/material-components).
 
 [https://material.io/guidelines/#introduction-principles](https://material.io/guidelines/#introduction-principles)
+
+{{< vimeo src="228890686">}}
 
 ---
 

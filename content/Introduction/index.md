@@ -10,8 +10,9 @@ The visitor journey often starts outside of the physical Museum via the Auckland
 
 The wide audience range of Auckland Museum creates interesting challenges for interactive designers. Digital briefs usually specify audiences, but designers should strive for inclusive experiences, and engagement across the visitor spectrum.
 
-### Our spaces
-[Create a simple diagram identifying common current state interactive executions in space - Could include projections, touch tables, wall screens, screens in walls, partitions, angled ‘kiosk’ screens, AR devices, VR stations.]
+<!-- ### Our spaces -->
+<!-- [Create a simple diagram identifying common current state interactive executions in space - Could include projections, touch tables, wall screens, screens in walls, partitions, angled ‘kiosk’ screens, AR devices, VR stations.] -->
+{{< vimeo src="228890575" title="Our spaces" >}}
 
 
 ### Environmental factors
