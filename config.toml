@@ -38,8 +38,8 @@ publishDir = "docs"
 
 
 [[menu.main]]
-    name   = "Introduction"
-    url    = "introduction/"
+    name   = "Designing for the Museum context"
+    url    = "designing-for-the-museum-context/"
     weight = 10
 
 [[menu.main]]

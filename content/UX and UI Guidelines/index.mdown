@@ -49,5 +49,3 @@ Te Papa have guidelines on creating a [Call-to-action](https://te-papa.github.io
 
 ### Attractor loops
 Attractor states to alert visitors to the interactive may be required, such as a splash screen or a loop, once a session has ended.
-
-[Additional interaction design content]

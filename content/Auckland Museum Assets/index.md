@@ -20,6 +20,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 ### Related
 
-* Download the Auckland museum graphic style guide
+* [Download the Auckland Museum graphic style guide](/resources/awmm-brand-design-guide-logo-use.pdf)
 
-* Download the Auckland Museum writing style guide
+
+<!-- * Download the Auckland Museum writing style guide -->

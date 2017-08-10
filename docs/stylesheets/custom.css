@@ -151,6 +151,9 @@ img + small {
 .article img {
 	padding: 20px 0;
 }
+.headerlink {
+	display: none;
+}
 
 /* Logo Styles */
 .palette-primary-museum-black .project .logo img {

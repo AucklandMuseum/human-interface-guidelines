@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designing for the Museum contexts on Auckland Museum</title>
+    <link>https://aucklandmuseum.github.io/human-interface-guidelines/designing-for-the-museum-context/</link>
+    <description>Recent content in Designing for the Museum contexts on Auckland Museum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aucklandmuseum.github.io/human-interface-guidelines/designing-for-the-museum-context/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing for the Museum context</title>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/designing-for-the-museum-context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/designing-for-the-museum-context/</guid>
+      <description>Our Visitors The visitor journey often starts outside of the physical Museum via the Auckland Museum website or social media channels outside, which lead to a museum visit, and multiple passive and active digital interactions during the stay. Visitors may collect or generate personalised content to take away or build-upon after their visit, and these interacts with our online channels may lead on to their next visit.
+The wide audience range of Auckland Museum creates interesting challenges for interactive designers.</description>
+    </item>
+    
+  </channel>
+</rss>
