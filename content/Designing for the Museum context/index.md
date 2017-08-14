@@ -10,9 +10,7 @@ The wide audience range of Auckland Museum creates interesting challenges for in
 
 {{< image src="/images/VisitorFlow2x.png" title="User Flow" caption="Optional Caption" >}}
 
-<!-- ### Our spaces -->
-<!-- [Create a simple diagram identifying common current state interactive executions in space - Could include projections, touch tables, wall screens, screens in walls, partitions, angled ‘kiosk’ screens, AR devices, VR stations.] -->
-{{< vimeo src="228890575" title="Our spaces" >}}
+{{< vimeo src="228890575" title="Our spaces" caption="With every exhibition there is are different requirements and different opportunities to use digital interfaces, in to bring the audience closer to the content." >}}
 
 
 ### Environmental factors
@@ -22,3 +20,6 @@ Each gallery space will present different lighting characteristics to design whi
 
 ### System performance
 Building interactives for fast response times and minimising calls to data sources will
+
+
+{{< image src="/images/20170814-MuseumContext-illos.png" title="" caption="" >}}

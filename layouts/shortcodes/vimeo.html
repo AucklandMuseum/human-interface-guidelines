@@ -1,9 +1,11 @@
 {{- $src := .Get "src" -}}
 {{- $title := .Get "title" -}}
+{{- $cap := .Get "caption" -}}
 <div class="video-wrap">
 	<p class="video-title">{{$title}}</p>
 	<div class="video">
 		<iframe class="video-player" type="text/html" src="https://player.vimeo.com/video/{{$src}}" allowfullscreen frameborder="0">
 		</iframe>
 	</div>
+	<small>{{$cap}}</small>
 </div>

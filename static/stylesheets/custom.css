@@ -64,6 +64,10 @@ small {
 img + small {
 	padding-bottom: 0;
 }
+.video + small {
+    padding-top: 30px;
+    display: block;
+}
 
 /* Admonition Styles */
 .admonition.alert {

@@ -51,7 +51,7 @@ You are welcome to use Material Design elements which are not directly linked to
 
 [https://material.io/guidelines/#introduction-principles](https://material.io/guidelines/#introduction-principles)
 
-{{< vimeo src="228890686">}}
+{{< vimeo src="228890686" caption="The basic principle of material design dictates that everything in the screen must have coherent physical properties.">}}
 
 ---
 

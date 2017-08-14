@@ -12,8 +12,6 @@ Gotham Narrow is the Auckland Museum typeface. We use two variations of Gotham N
 ### Related
 * [Auckland museum graphic style guide](https://google.com)
 
-* [Auckland Museum writing style guide](https://google.com)
-
 ---
 
 ## Colour
@@ -30,4 +28,4 @@ We recognise the layout of an interactive will depend largely on the content and
 
 Other layout elements can be inspired by the 2D design in the relevant gallery or exhibition.
 
-{{< vimeo src="228890797">}}
+{{< vimeo src="228890797" caption="Responsive design is one of the core fundamentals of digital design: the integrity of the content must be maintained no matter the context in which it is being experienced.">}}

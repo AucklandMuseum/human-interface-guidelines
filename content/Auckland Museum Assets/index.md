@@ -2,25 +2,16 @@
 title: Auckland Museum Assets
 ---
 
-## Auckland Museum Logos
+## Auckland Museum Brand and Logo usage
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+{{< image src="/images/logos.png" title="Auckland Museum Logo" caption="Auckland Museum online and commercial logos" >}}
+
+Describes the two versions of the Museum's logo, and the distinct contexts in which they are applied.
+
+* [Auckland Museum Brand Design Guide](/resources/awmm-brand-design-guide-logo-use.pdf)
 
 ---
 
-## Auckland Museum Style Guide (Draft)
+## Auckland Museum writing style guide
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-
-{{< gallery class="image-group" >}}
-  {{< image src="http://via.placeholder.com/850x550" title="Image Title" caption="Optional Caption" >}}
-  {{< image src="http://via.placeholder.com/850x550" title="Image Title" caption="Optional Caption" >}}
-{{< /gallery >}}
-
-### Related
-
-* [Download the Auckland Museum graphic style guide](/resources/awmm-brand-design-guide-logo-use.pdf)
-
-
-<!-- * Download the Auckland Museum writing style guide -->
+Currently available as a project resource, this document presents the Museums written conventions for print and on-screen.

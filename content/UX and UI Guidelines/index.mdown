@@ -24,7 +24,7 @@ Buttons can comprise of icons or text. Please adhere to the [Material Design but
 >An emphasis on user actions makes core functionality immediately apparent and provides waypoints
 for the user.” - Google material design
 
-{{< vimeo src="228890944">}}
+{{< vimeo src="228890944" caption="Touch gestures are perfect opportunities to delight with smooth animations and a strong sense of tactile feedback">}}
 
 ### Motion Scrolling and gestures
 
