@@ -28,11 +28,9 @@ Throughout the guidelines, we specify what you should ‘refer to’ – meaning
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</guid>
-      <description> Auckland Museum Logos Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Auckland Museum Style Guide (Draft) Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Image Title
-Optional Caption  Image Title
-Optional Caption   Related  Download the Auckland Museum graphic style guide  </description>
+      <description>Auckland Museum Brand and Logo usage Auckland Museum Logo
+Auckland Museum online and commercial logos  Describes the two versions of the Museum&amp;rsquo;s logo, and the distinct contexts in which they are applied.
+ Auckland Museum Brand Design Guide  Auckland Museum writing style guide Currently available as a project resource, this document presents the Museums written conventions for print and on-screen.</description>
     </item>
     
     <item>
@@ -63,8 +61,7 @@ Extending the Gallery Renewal Principles and Visitor Market research insights, t
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/inclusive-design/</guid>
       <description>Digital products must be universally accessible. Some elements of accessibility will sit outside of your brief, such as placement and casing for an interactive.
 Adhere to Te Papa’s principles on Accessibility, as well as the Material Design Accessibility guidelines.
-   You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.
-Material Accessibility</description>
+  Always take into consideration the size of the screen and it&amp;#39;s its placement and location in an exhibition before laying out your interactive elements.  You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.</description>
     </item>
     
     <item>
@@ -84,11 +81,9 @@ It is essential you read the following guidelines on building for BrightSign:</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/ui-text/</guid>
-      <description> Multilinual Interfaces You may receive more guidance on the use of te reo Māori as part of your brief.
+      <description>Multilinual Interfaces You may receive more guidance on the use of te reo Māori as part of your brief.
 You must also adhere the Auckland Museum style guide, appendix item 8.3. This includes guidelines on the use of te reo Māori
-Please also refer to the Te Papa UI control label text guide
-Image Title
-Optional Caption  </description>
+Please also refer to the Te Papa UI control label text guide</description>
     </item>
     
     <item>
