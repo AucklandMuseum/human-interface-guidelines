@@ -6,6 +6,7 @@ An interactive Human Interface Guidelines for [Auckland Museum](http://www.auckl
 
 * [Git](https://git-scm.com/)
 * [Hugo](https://gohugo.io/getting-started/installing/)
+* [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Getting started
 
