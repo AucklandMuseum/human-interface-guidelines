@@ -27,7 +27,7 @@ Run this command in your terminal to start Hugo web dev server
 hugo serve -D
 ```
 
-The site can now be viewed on `http://localhost:1313`
+The site can now be viewed on `http://localhost:1313/human-interface-guidelines/`
 
 > **Tips**:
 > If you want to share your dev site to others within your LAN network, run this command instead `hugo server -D --bind <LAN IP> --baseURL http://<LAN IP>`
