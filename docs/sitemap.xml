@@ -67,6 +67,15 @@
   </url>
   
   <url>
+    <loc>https://aucklandmuseum.github.io/human-interface-guidelines/training/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aucklandmuseum.github.io/human-interface-guidelines/training/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aucklandmuseum.github.io/human-interface-guidelines/ui-text/</loc>
   </url>
   
