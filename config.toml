@@ -77,9 +77,3 @@ publishDir = "docs"
     url    = "auckland-museum-assets/"
     weight = 80
 
-     [[menu.main]]
-    name   = "Training"
-    url    = "training/"
-    weight = 90
-
-

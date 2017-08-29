@@ -1,27 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Trainings on Auckland Museum</title>
-    <link>https://aucklandmuseum.github.io/human-interface-guidelines/training/</link>
-    <description>Recent content in Trainings on Auckland Museum</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://aucklandmuseum.github.io/human-interface-guidelines/training/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Training</title>
-      <link>https://aucklandmuseum.github.io/human-interface-guidelines/training/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/training/</guid>
-      <description>Digital products must be universally accessible. Some elements of accessibility will sit outside of your brief, such as placement and casing for an interactive.
-A second level header Heading two create sub menu under this
-A list  one two three  Video Very easy. Just get src as id of video.
-Our spaces
-With every exhibition there is are different requirements and different opportunities to use digital interfaces, in to bring the audience closer to the content.</description>
-    </item>
-    
-  </channel>
-</rss>

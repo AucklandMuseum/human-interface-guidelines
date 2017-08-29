@@ -29,7 +29,7 @@ Throughout the guidelines, we specify what you should ‘refer to’ – meaning
       
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/auckland-museum-assets/</guid>
       <description>Auckland Museum Brand and Logo usage Auckland Museum Logo
-Auckland Museum online and commercial logos Describes the two versions of the Museum&amp;rsquo;s logo, and the distinct contexts in which they are applied.
+Auckland Museum online and commercial logos  Describes the two versions of the Museum&amp;rsquo;s logo, and the distinct contexts in which they are applied.
  Auckland Museum Brand Design Guide  Auckland Museum writing style guide Currently available as a project resource, this document presents the Museums written conventions for print and on-screen.</description>
     </item>
     
@@ -61,7 +61,7 @@ Extending the Gallery Renewal Principles and Visitor Market research insights, t
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/inclusive-design/</guid>
       <description>Digital products must be universally accessible. Some elements of accessibility will sit outside of your brief, such as placement and casing for an interactive.
 Adhere to Te Papa’s principles on Accessibility, as well as the Material Design Accessibility guidelines.
-Always take into consideration the size of the screen and it&amp;#39;s its placement and location in an exhibition before laying out your interactive elements. You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.</description>
+  Always take into consideration the size of the screen and it&amp;#39;s its placement and location in an exhibition before laying out your interactive elements.  You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.</description>
     </item>
     
     <item>
@@ -73,19 +73,6 @@ Adhere to Te Papa’s principles on Accessibility, as well as the Material Desig
       <description>Brightsign When building for BrightSign, it is best to compile and streamline as if you are building for Android, then create layout and front end interactions as if for a desktop / your screen size.
 You should receive a BrightSign player to test your software on. You will also need to download and use BrightAuthor to compile your interactive ready for testing on the BrightSign player.
 It is essential you read the following guidelines on building for BrightSign:</description>
-    </item>
-    
-    <item>
-      <title>Training</title>
-      <link>https://aucklandmuseum.github.io/human-interface-guidelines/training/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/training/</guid>
-      <description>Digital products must be universally accessible. Some elements of accessibility will sit outside of your brief, such as placement and casing for an interactive.
-A second level header Heading two create sub menu under this
-A list  one two three  Video Very easy. Just get src as id of video.
-Our spaces
-With every exhibition there is are different requirements and different opportunities to use digital interfaces, in to bring the audience closer to the content.</description>
     </item>
     
     <item>
