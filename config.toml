@@ -43,8 +43,8 @@ publishDir = "docs"
     weight = 10
 
 [[menu.main]]
-    name   = "Digital Experience Design Principals"
-    url    = "digital-experience-design-principals/"
+    name   = "Digital Experience Design Principles"
+    url    = "digital-experience-design-principles/"
     weight = 20
 
 [[menu.main]]
