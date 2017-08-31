@@ -1,5 +1,5 @@
 ---
-title: Digital Experience Design Principals
+title: Digital Experience Design Principles
 ---
 
 ## Overview
