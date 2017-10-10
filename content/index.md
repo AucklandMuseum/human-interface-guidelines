@@ -13,7 +13,7 @@ The Human Interface Guidelines are intended to assist developers and designers w
 
 ### What you'll find in this guide
 
-* [Designing for the museum context](./designing-for-the-museum-context)
+* [Designing for the Museum context](./designing-for-the-museum-context)
 * [Digital Experience Design Principles](./digital-experience-design-principles)
 * [Visual Design Foundations](./visual-design-foundations)
 * [UX and UI Guidelines](./ux-and-ui-guidelines)
