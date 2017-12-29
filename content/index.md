@@ -29,6 +29,5 @@ If something doesn't make sense or is unrealistic for your particular digital pr
 * [UX and UI guidelines](./ux-and-ui-guidelines)
 * [UI text](./ui-text)
 * [Inclusive design](./ui-text)
-* [Platforms](./platforms)
 * [Auckland Museum assets](./auckland-museum-assets)
 

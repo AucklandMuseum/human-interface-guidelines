@@ -7,8 +7,4 @@ brief, such as placement and casing for an interactive.
 
 Adhere to Te Papa’s principles on [Accessibility](https://te-papa.github.io/_pages/foundations/accessibility/), as well as the [Material Design Accessibility guidelines.](https://material.io/guidelines/usability/accessibility.html)
 
-{{< vimeo src="228891097" caption="Always take into consideration the size of the screen and it's its placement and location in an exhibition before laying out your interactive elements.">}}
-
 You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.
-
-[Material Accessibility](https://material.io/guidelines/usability/accessibility.html)

@@ -8,7 +8,7 @@ The visitor journey often starts outside of the physical Museum via the Auckland
 
 The wide audience range of Auckland Museum creates interesting challenges for interactive designers. Digital briefs usually specify audiences, but designers should strive for inclusive experiences, and engagement across the visitor spectrum.
 
-{{< image src="/images/VisitorFlow2x.png" title="User Flow" caption="Optional Caption">}}
+{{< image src="/images/VisitorFlow2x.png" title="User Flow">}}
 
 <!-- {{< vimeo src="228890575" title="Our spaces" caption="With every exhibition there is are different requirements and different opportunities to use digital interfaces, in to bring the audience closer to the content." >}}
  -->

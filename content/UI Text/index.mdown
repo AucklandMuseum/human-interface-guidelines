@@ -2,10 +2,10 @@
 title: UI Text
 ---
 
-## Multilinual Interfaces
+## Multilingual Interfaces
 
 You may receive more guidance on the use of te reo Māori as part of your brief.
 
-You must also adhere the Auckland Museum style guide, appendix item 8.3. This includes guidelines on the use of te reo Māori
+You must also adhere the Auckland Museum style guide, [found here](/auckland-museum-assets/). This includes guidelines on the use of te reo Māori
 
 [Please also refer to the Te Papa UI control label text guide](https://te-papa.github.io/_pages/patterns/ui-control-names/)

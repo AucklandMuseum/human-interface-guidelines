@@ -4,54 +4,53 @@ title: Digital Experience Design Principles
 
 ## Overview
 
-The Auckland Museum DXDPs were developed over a number of iterations of an initial set of principles collaboratively created for the Taku Tāmaki – Auckland Stories exhibition in 2014 and include insights from an environment scan across international museums. They have been peer reviewed by the Museum’s Digital Advisory Group.
+The Auckland Museum DXDPs were developed over a number of iterations and include insights from an environment scan across international museums. They have been peer reviewed by the Museum's Digital Advisory Group.
 
-Extending the Gallery Renewal Principles and Visitor Market research insights, the Digital Experience Design Principles are high-level statements around ‘digital experiences’ at Auckland Museum.
+Extending the Gallery Renewal Principles and Visitor Market research insights, the Digital Experience Design Principles are high-level statements around 'digital experiences' at Auckland Museum.
 
 
 1. ### Digital as an enabler
-Digital technology is only used when it serves a specific need and not merely for technology’s sake. Digital technology is only used when it is the best way to tell our stories at a specific time or context, either by providing novel ways of storytelling, inspiring engagement through technology, or creating empathy, providing a genuine interpretive solution for the gallery and supporting audience-centred objectives.
+Digital technology is only used when it serves a specific need and not merely for technology's sake. Digital technology is only used when it is the best way to tell our stories at a specific time or context, either by providing novel ways of storytelling, inspiring engagement through technology, or creating empathy, providing a genuine interpretive solution for the gallery and supporting audience-centred objectives.
 
 2. ### A tool for learning
 Digital experiences are encouraging learning for formal and informal learners and everyone else by supporting them to construct knowledge through exploration and inquiry and by catering for different learning styles.
 
 3. ### Digital as opt-in, for everyone
-Visitors are never forced into a digital experience but always have the option to opt-in. No digital experience should act as a barrier to our content or alienate visitors in any way, regardless of their physical abilities, age or technical aptitude. In this way, d igital should be inclusive and meet accessibility standards outlined in section 6.0.
+Visitors are never forced into a digital experience but always have the option to opt-in. No digital experience should act as a barrier to our content or alienate visitors in any way, regardless of their physical abilities, age or technical aptitude. In this way, digital should be inclusive and meet accessibility standards outlined in section 6.0.
 
 4. ### Enabling our visitors to participate
-Motivated by our audience's needs, harness digital technologies and experiences to enable participation and empower our visitors to do so confidently. Participation can happen along the entire continuum of engagement - from ‘likes’ to citizen science - without an inherent expectation of ongoing storage or use.
+Motivated by our audience's needs, harness digital technologies and experiences to enable participation and empower our visitors to do so confidently. Participation can happen along the entire continuum of engagement - from 'likes' to citizen science - without an inherent expectation of ongoing storage or use.
 
 5. ### An exemplary digital vision
-Galleries feature beautiful, fit for purpose digital interactives that meet our visitors’ expectation of unique and unusual experiences they can’t see and do elsewhere. Digital experiences are purposefully applied to peak and sustain interest, attention and curiosity and to provide additional interpretive choices beyond objects and text.
+Galleries feature beautiful, fit for purpose digital interactives that meet our visitors' expectation of unique and unusual experiences they can’t see and do elsewhere. Digital experiences are purposefully applied to peak and sustain interest, attention and curiosity and to provide additional interpretive choices beyond objects and text.
 
 6. ### A coherent digital experience
-Digital experiences harmonise across all of the Museum’s galleries, resulting in a unified and coherent digital museum experience for our visitors. The Museum’s digital products and services are perceived as seamless and integrated. They are easy and intuitive to access and evenly distributed / paced throughout the entire building.
+Digital experiences harmonise across all of the Museum's galleries, resulting in a unified and coherent digital museum experience for our visitors. The Museum's digital products and services are perceived as seamless and integrated. They are easy and intuitive to access and evenly distributed / paced throughout the entire building.
 
 7. ### Objects have a digital dimension
-Wherever possible, objects on display have corresponding digital content on the Museum’s website, complementing their stories and providing opportunity for further inquiry and engagement. On the flipside, digital experiences function as a prompt to engage with physical objects.
+Wherever possible, objects on display have corresponding digital content on the Museum's website, complementing their stories and providing opportunity for further inquiry and engagement. On the flipside, digital experiences function as a prompt to engage with physical objects.
 
 8. ### Open anytime, anywhere
 Visitors can have a digital museum experience from wherever they are in their visitor journey.
 
 9. ### Sustainable, future proof, modular, disposable
-Where possible, content is created in a modular and endpoint- agnostic way (‘COPE’), building on existing backend systems, APIs, and infrastructure. Siloed, ‘black-box’ experiences are avoided. A plan for regular testing, evaluation and improvement of the digital experience is in place. System and hardware upgrades are scheduled.
+Where possible, content is created in a modular and endpoint- agnostic way, building on existing backend systems, APIs, and infrastructure. Siloed, 'black-box' experiences are avoided. A plan for regular testing, evaluation and improvement of the digital experience is in place. System and hardware upgrades are scheduled.
 
 ---
 
 ## Material Design
 
-Google’s [Material Design link](https://material.io/) is a unified system that combines theory, resources, and tools for crafting
-digital experiences - a universal design language.
+Google's [Material Design](https://material.io/) is a unified system that combines theory, resources, and tools for crafting digital experiences - a universal design language.
 
 {{< youtube src="jE1EU1ACe6s">}}
 
 We reference Material Design throughout our HIGs. Material Design is an evolving spec and is one of the pre-eminent systems for creating digital experiences therefore it makes sense to leverage the immense resource and development effort to inform our Human Interface Guidelines.
+
+{{< alert title="HIGs first, Material Design second" >}}
 When using Material Design, refer to the Auckland Museum HIGs first – as things like typography and icons are different.
+{{< /alert >}}
+
 You are welcome to use Material Design elements which are not directly linked to from the Auckland Museum HIGs. Modular and customisable Material Design UI components are available on [Github](https://github.com/material-components).
-
-[https://material.io/guidelines/#introduction-principles](https://material.io/guidelines/#introduction-principles)
-
-{{< vimeo src="228890686" caption="The basic principle of material design dictates that everything in the screen must have coherent physical properties.">}}
 
 ---
 
@@ -63,8 +62,6 @@ and Javascript tracking-code snippet to embed in your digital product. Tracking 
 offline.
 
 You are required to implement this code in your digital product, along appropriate use of events to
-track visitor activity. Refer to the ‘Virtual pageviews and events’ section in the [Auckland Museum [web] analytics guidelines](http://www.aucklandmuseum.com/toolkit/google-analytics-tips).
+track visitor activity. Refer to the 'Virtual pageviews and events' section in the [Auckland Museum (web) analytics guidelines](http://www.aucklandmuseum.com/toolkit/google-analytics-tips).
 
-In terms of what to measure, select what is most appropriate for the digital product you are producing. [Te Papa’s analytics guidelines](https://te-papa.github.io/_pages/foundations/analytics/) provide a good guide as to what to consider.
-
-If you are making a native BrightSign app we can provide guidance on how to set up analytics.
+In terms of what to measure, select what is most appropriate for the digital product you are producing. [Te Papa's analytics guidelines](https://te-papa.github.io/_pages/foundations/analytics/) provide a good guide as to what to consider.

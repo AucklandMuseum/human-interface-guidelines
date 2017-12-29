@@ -21,14 +21,12 @@ Buttons can comprise of icons or text. Please adhere to the [Material Design but
 
 ## Interaction Design
 
->An emphasis on user actions makes core functionality immediately apparent and provides waypoints
-for the user.” - Google material design
-
-{{< vimeo src="228890944" caption="Touch gestures are perfect opportunities to delight with smooth animations and a strong sense of tactile feedback">}}
+>"An emphasis on user actions makes core functionality immediately apparent and provides waypoints
+for the user." - Material Design
 
 ### Motion Scrolling and gestures
 
->“Motion is meaningful and appropriate, serving to focus attention and maintain continuity.” - Google material design
+>"Motion is meaningful and appropriate, serving to focus attention and maintain continuity." - Material Design
 
 Motion, scrolling, and gestures should follow Material Design guidelines. As visitors are moving through the Museum engaging with different digital products, they should be able to use the same natural gestures and expect consistent results.
 
@@ -40,12 +38,10 @@ Adhere to the Material Design guidelines below, unless they are out of scope for
 
 * [Scrolling](https://material.io/guidelines/patterns/scrolling-techniques.html)
 
-
-{{< youtube src="cQzien5H2Do" title="Google Material Design Motion" >}}
-
+{{< youtube src="cQzien5H2Do" title="Material Design Motion" >}}
 
 ### Cues and calls-to-action
-Te Papa have guidelines on creating a [Call-to-action](https://te-papa.github.io/_pages/principles/call-to-action/), which should be adhered to.
+Te Papa have guidelines on creating a [call-to-action](https://te-papa.github.io/_pages/principles/call-to-action/), which should be adhered to.
 
 ### Attractor loops
 Attractor states to alert visitors to the interactive may be required, such as a splash screen or a loop, once a session has ended.
