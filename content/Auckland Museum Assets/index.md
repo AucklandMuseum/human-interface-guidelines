@@ -2,7 +2,7 @@
 title: Auckland Museum Assets
 ---
 
-## Auckland Museum Brand
+## Brand
 
 Depending on your project, you may or not be required to use the Auckland Museum logo and frame branding device. However, it's worth being aware of our brand guidelines.
 
@@ -10,6 +10,6 @@ Depending on your project, you may or not be required to use the Auckland Museum
 
 ---
 
-## Auckland Museum Writing Style Guide
+## Style Guide
 
-Currently available as a project resource, this document presents the Museums written conventions for print and on-screen. Contact your project manager for more information.
+Currently available as a project resource, this document presents the Museum's written conventions for print and on-screen. Contact your project manager for a copy.

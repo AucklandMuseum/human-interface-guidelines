@@ -38,37 +38,27 @@ publishDir = "docs"
 
 
 [[menu.main]]
-    name   = "Designing for the Museum context"
-    url    = "designing-for-the-museum-context/"
-    weight = 10
-
-[[menu.main]]
     name   = "Digital Experience Design Principles"
     url    = "digital-experience-design-principles/"
-    weight = 20
+    weight = 10
 
 [[menu.main]]
     name   = "Visual Design Foundations"
     url    = "visual-design-foundations/"
-    weight = 30
+    weight = 20
 
 [[menu.main]]
     name   = "UX and UI Guidelines"
     url    = "ux-and-ui-guidelines/"
-    weight = 40
-
-[[menu.main]]
-    name   = "UI Text"
-    url    = "ui-text/"
-    weight = 50
+    weight = 30
 
 [[menu.main]]
     name   = "Inclusive Design"
     url    = "inclusive-design/"
-    weight = 60
+    weight = 40
 
  [[menu.main]]
     name   = "Auckland Museum Assets"
     url    = "auckland-museum-assets/"
-    weight = 70
+    weight = 50
 

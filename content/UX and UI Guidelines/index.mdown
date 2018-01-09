@@ -21,9 +21,6 @@ Buttons can comprise of icons or text. Please adhere to the [Material Design but
 
 ## Interaction Design
 
->"An emphasis on user actions makes core functionality immediately apparent and provides waypoints
-for the user." - Material Design
-
 ### Motion Scrolling and gestures
 
 >"Motion is meaningful and appropriate, serving to focus attention and maintain continuity." - Material Design
@@ -45,3 +42,15 @@ Te Papa have guidelines on creating a [call-to-action](https://te-papa.github.io
 
 ### Attractor loops
 Attractor states to alert visitors to the interactive may be required, such as a splash screen or a loop, once a session has ended.
+
+---
+
+## UI Text
+
+### Multilingual Interfaces
+
+You may receive more guidance on the use of te reo Māori as part of your brief.
+
+You must also adhere the Auckland Museum style guide, [found here](/auckland-museum-assets/). This includes guidelines on the use of te reo Māori.
+
+Please also refer to the [Te Papa UI control names](https://te-papa.github.io/_pages/patterns/ui-control-names/).

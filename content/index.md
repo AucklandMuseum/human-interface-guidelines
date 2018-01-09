@@ -23,11 +23,9 @@ If something doesn't make sense or is unrealistic for your particular digital pr
 
 ### What you'll find in this guide
 
-* [Designing for the Museum context](./designing-for-the-museum-context)
 * [Digital Experience Design Principles](./digital-experience-design-principles)
 * [Visual design foundations](./visual-design-foundations)
 * [UX and UI guidelines](./ux-and-ui-guidelines)
-* [UI text](./ui-text)
 * [Inclusive design](./ui-text)
 * [Auckland Museum assets](./auckland-museum-assets)
 
