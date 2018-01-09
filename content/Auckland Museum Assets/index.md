@@ -2,14 +2,14 @@
 title: Auckland Museum Assets
 ---
 
-## Auckland Museum Brand and Logo usage
+## Auckland Museum Brand
 
-Describes the two versions of the Museum's logo, and the distinct contexts in which they are applied.
+Depending on your project, you may or not be required to use the Auckland Museum logo and frame branding device. However, it's worth being aware of our brand guidelines.
 
-* [Auckland Museum Brand Design Guide](/resources/awmm-brand-design-guide-logo-use.pdf)
+* [Auckland Museum Brand Design Guidelines, September 2017](/resources/awmm-brand-guidelines-one-pager-sep-2017.pdf)
 
 ---
 
-## Auckland Museum writing style guide
+## Auckland Museum Writing Style Guide
 
-Currently available as a project resource, this document presents the Museums written conventions for print and on-screen.
+Currently available as a project resource, this document presents the Museums written conventions for print and on-screen. Contact your project manager for more information.
