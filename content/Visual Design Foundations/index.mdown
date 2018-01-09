@@ -2,15 +2,11 @@
 title: Visual Design Foundations
 ---
 
->“The foundational elements of print-based design – typography, grids, space, scale, color, and use of imagery – guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus.” <br/> <i>Google material design</i>
+>"The foundational elements of print-based design – typography, grids, space, scale, color, and use of imagery – guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus." <br/> <i>Material Design</i>
 
 ## Typography
 
-Gotham Narrow is the Auckland Museum typeface. We use two variations of Gotham Narrow — Regular and Bold. This typeface must be used in all digital products. The Gotham Narrow Font family was designed and is distributed by Hoefler & Co. You are required to purchase a license here .
-
-
-### Related
-* [Auckland museum graphic style guide](https://google.com)
+Gotham Narrow is the Auckland Museum typeface. We use two variations of Gotham Narrow — Regular and Bold. This typeface must be used in all digital products. The Gotham Narrow Font family was designed and is distributed by Hoefler & Co. **You are required to [purchase a license here](https://www.typography.com/fonts/gotham/overview/).**
 
 ---
 
@@ -18,14 +14,14 @@ Gotham Narrow is the Auckland Museum typeface. We use two variations of Gotham N
 
 Colour should be consistent with the gallery or exhibition your digital product sits in. You will be provided with a colour palette to adhere to.
 
-In choosing background and text colours, the [Material Design Colour](https://material.io/color/#!/) Tool has an accessibility feature which can be used to check contrast and text eligibility.
+In choosing background and text colours, the [Material Design Colour Tool](https://material.io/color/#!/) has an accessibility feature which can be used to check contrast and text eligibility.
 
 ---
 
 ## Layout
 
-We recognise the layout of an interactive will depend largely on the content and creative interpretation of the brief. Refer to Te Papa’s foundational guidelines on [Layout](https://te-papa.github.io/_pages/principles/layout/).
+We recognise the layout of an interactive will depend largely on the content and creative interpretation of the brief. Refer to Te Papa's foundational guidelines on [Layout](https://te-papa.github.io/_pages/principles/layout/).
 
 Other layout elements can be inspired by the 2D design in the relevant gallery or exhibition.
 
-{{< vimeo src="228890797" caption="Responsive design is one of the core fundamentals of digital design: the integrity of the content must be maintained no matter the context in which it is being experienced.">}}
+{{< vimeo src="228890797" caption=" ">}}

@@ -40,11 +40,9 @@ Where possible, content is created in a modular and endpoint- agnostic way, buil
 
 ## Material Design
 
-Google's [Material Design](https://material.io/) is a unified system that combines theory, resources, and tools for crafting digital experiences - a universal design language.
+Google's [Material Design](https://material.io/) is a unified system that combines theory, resources, and tools for crafting digital experiences - a universal design language. We've based the HIGs on Material Design as it is a well-resourced system which evolves with new technologies.
 
 {{< youtube src="jE1EU1ACe6s">}}
-
-We reference Material Design throughout our HIGs. Material Design is an evolving spec and is one of the pre-eminent systems for creating digital experiences therefore it makes sense to leverage the immense resource and development effort to inform our Human Interface Guidelines.
 
 {{< alert title="HIGs first, Material Design second" >}}
 When using Material Design, refer to the Auckland Museum HIGs first – as things like typography and icons are different.
@@ -56,12 +54,6 @@ You are welcome to use Material Design elements which are not directly linked to
 
 ## Analytics
 
-For web browser based interactives, we can use Google Analytics to assess the effectiveness of
-digital products once they are on the floor. Your project manager should provide you with a tracking ID
-and Javascript tracking-code snippet to embed in your digital product. Tracking for interactives is
-offline.
+We can use Google Analytics to assess the effectiveness of digital products once they are on the floor. Your project manager should provide you with a tracking ID and Javascript tracking-code snippet to embed in your digital product. You are required to implement this code in your digital product, along appropriate use of events to track visitor activity. <!-- Refer to the 'Virtual pageviews and events' section in the [Auckland Museum (web) analytics guidelines](http://www.aucklandmuseum.com/toolkit/google-analytics-tips). !-->
 
-You are required to implement this code in your digital product, along appropriate use of events to
-track visitor activity. Refer to the 'Virtual pageviews and events' section in the [Auckland Museum (web) analytics guidelines](http://www.aucklandmuseum.com/toolkit/google-analytics-tips).
-
-In terms of what to measure, select what is most appropriate for the digital product you are producing. [Te Papa's analytics guidelines](https://te-papa.github.io/_pages/foundations/analytics/) provide a good guide as to what to consider.
+In terms of **what to measure**, select what is most appropriate for the digital product you are producing. [Te Papa's analytics guidelines](https://te-papa.github.io/_pages/foundations/analytics/) provide a good guide as to what to consider.

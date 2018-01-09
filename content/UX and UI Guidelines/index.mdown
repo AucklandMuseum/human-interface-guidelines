@@ -21,7 +21,7 @@ Buttons can comprise of icons or text. Please adhere to the [Material Design but
 
 ## Interaction Design
 
-### Motion Scrolling and gestures
+### Motion, scrolling, and gestures
 
 >"Motion is meaningful and appropriate, serving to focus attention and maintain continuity." - Material Design
 
@@ -37,15 +37,17 @@ Adhere to the Material Design guidelines below, unless they are out of scope for
 
 {{< youtube src="cQzien5H2Do" title="Material Design Motion" >}}
 
-### Cues and calls-to-action
-Te Papa have guidelines on creating a [call-to-action](https://te-papa.github.io/_pages/principles/call-to-action/), which should be adhered to.
+### Virtual Reality and 3D
 
-### Attractor loops
-Attractor states to alert visitors to the interactive may be required, such as a splash screen or a loop, once a session has ended.
+Refer to the [Designing for Google Cardboard guidelines](https://designguidelines.withgoogle.com/cardboard/interactive-patterns/controls.html#) to begin with.
 
 ---
 
 ## UI Text
+
+### Cues and calls-to-action
+
+Te Papa have guidelines on creating a [call-to-action](https://te-papa.github.io/_pages/principles/call-to-action/), which should be adhered to.
 
 ### Multilingual Interfaces
 
