@@ -17,7 +17,7 @@
       
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/inclusive-design/</guid>
       <description>Digital products must be universally accessible. Some elements of accessibility will sit outside of your brief, such as placement and casing for an interactive.
-Adhere to Te Papa’s principles on Accessibility, as well as the Material Design Accessibility guidelines.
+Adhere to the accessibility guidelines from Te Papa and Material Design.
 You do not have to use the exact dp sizes specified by Material Design, but ensure you have adequate touch target spacing and icon sizes.</description>
     </item>
     
