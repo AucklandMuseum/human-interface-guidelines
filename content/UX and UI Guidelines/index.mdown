@@ -6,13 +6,14 @@ title: UX and UI Guidelines
 
 The Museum uses the Material Design icons, and a [community created set](https://materialdesignicons.com/) which includes outline versions of the icons. The table below indicates which icons we use for each function. Most icons will appear in a button or as part of an AV player.
 
-* [Download our selected Material Icons here.](/resources/awmm-brand-guidelines-one-pager-sep-2017.pdf) File names in this package are referred to below.
+* [Download our selected Material Icons here.](/resources/am-higs-icons.zip) File names in this package are referred to below.
 
 ### Icon Usage
 
 In general, use outline versions of icons, contained in a [button](button link), where available. Filled in icons should be used when the icon is directly covering the content (therefore making the icon harder to see if it was an outline) - such as a play icon over a video, or a pointer / eye icon used over a map. 
 
 Please adhere to the following guidelines around icon usage.
+
 Icon | File name | Usage
 ----------------------- | ------------- | ---------------------------------|
 **NAVIGATION** | **navigation-icons** | These icons are the basis of most interactives.
