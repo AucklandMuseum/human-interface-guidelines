@@ -262,40 +262,170 @@
 <p>The Museum uses the Material Design icons, and a <a href="https://materialdesignicons.com/">community created set</a> which includes outline versions of the icons. The table below indicates which icons we use for each function. Most icons will appear in a button or as part of an AV player.</p>
 
 <ul>
-<li><a href="https://aucklandmuseum.github.io/human-interface-guidelines/resources/awmm-brand-guidelines-one-pager-sep-2017.pdf">Download our selected Material Icons here.</a> File names in this package are referred to below.</li>
+<li><a href="https://aucklandmuseum.github.io/human-interface-guidelines/resources/am-higs-icons.zip">Download our selected Material Icons here.</a> File names in this package are referred to below.</li>
 </ul>
 
 <h3 id="icon-usage">Icon Usage</h3>
 
 <p>In general, use outline versions of icons, contained in a <a href="button link">button</a>, where available. Filled in icons should be used when the icon is directly covering the content (therefore making the icon harder to see if it was an outline) - such as a play icon over a video, or a pointer / eye icon used over a map.</p>
 
-<p>Please adhere to the following guidelines around icon usage.
-Icon | File name | Usage
-&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash; | &mdash;&mdash;&mdash;&mdash;- | &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;|
-<strong>NAVIGATION</strong> | <strong>navigation-icons</strong> | These icons are the basis of most interactives.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/chevrons-all.png" alt="Chevron" /> | chevron-up, chevron-down, chevron-left, chevron-right | Use chevrons for scrolling, or moving between items which are part of the same page/frame/content grouping. e.g. as part of a lightbox, on a timeline. These do not need to be labelled.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/arrows-all.png" alt="Arrows" /> | arrow-forward, arrow-back, arrow-up, arrow-down | Arrows are used for going to a different section/piece of content in the interactive. The back arrow is used for going to back to the previous element in the IA. Arrows should be labelled clearly. Refer to the UI text section for labeling.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/home.png" alt="Home" /> | home | Used to take users back to the main screen. Must have clear labelling. Consider use of back arrows instead for IAs that are not too deep.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/help-all.png" alt="Help" /> | help, help-outline  | Ideally, interactives should not require a help button due to clear and elegant UX. However, use this icon where instruction is needed.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/magnify.png" alt="Magnify" /> | magnify | The magnify icon can be used as a button can be placed over images as a sign to expand the image.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/zoom-icons.png" alt="Zoom" />| plus, minus | In general, visitors should be able to pinch and zoom, and if you need zoom icons, turn the plus and minus signs into flat square buttons.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/search.png" alt="Search" /> | search | Used for typed search boxes.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/close.png" alt="Close" /> | close | This does not need a button around it unless that fits with your design.
-<strong>AV CONTROLS</strong> | <strong>av_controls</strong> | Use these to create AV players with your interactive. Do not use fast forward buttons - visitors should be able to toggle by dragging the time marker (as in YouTube).
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/play-circle.png" alt="Play circle" /> | play-circle | This should be used in the centre of videos, as a layer on top of the video preview.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/headphones.png" alt="Headphones" /> | headphones | As with the play circle, this should be used to indicate audio content.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/play-pause.png" alt="Play pause" />   | play,pause | Use the play arrow as a button to launch a video (choose between this and play circle overlaid on video preview), or at the AV control along the bottom of videos. When a visitor hits pause, video pauses and icon changes to play icon.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/volume-all.png" alt="Volume" /> | volume-on, volume-off, volume-up, volume-down | In most circumstances, volume should be set to a suitable level for the gallery space and not possible to adjust. Contact your project manager. Volume on should appear after a visitor touches volume off, and vice versa.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/replay.png" alt="Replay" /> | replay | Replay the AV item
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/subtitles.png" alt="Subtitles" /> | subtitles | Toggle subtitles on off, and use as menu for different languages if required
-<strong>CONTENT</strong> | <strong>content-icons</strong> | Content specific icons.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/map-all.png" alt="Map" /> | map-point, map-point-multiple | Used to show a point on a map. Multiple point icon for zoomed out view of a cluster of points. If different points on a map show different types of content, look to use different icons for each content type, or consider creating custom icons.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/eye.png" alt="Eye" /> | eye | For use as points on non-map surfaces, such as objects.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/create.png" alt="Create" /> | create | Used if visitor has the opportunity to draw or make something within the interactive. Clearly label what they will create.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/undo.png" alt="Undo" /> | undo | Used in creation process to undo last visitor input.
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/backspace.png" alt="Backspace" /> | backspace | For undoing typed visitor inputs
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/send.png" alt="Send" /> | send | For sharing, sending, or submitting selections or user created content. Must be clearly labelled, e.g. Share to Facebook, Submit your design
-<img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/camera.png" alt="Camera" /> | camera | To indicate visitor photo opportunities. Clearly label.</p>
+<p>Please adhere to the following guidelines around icon usage.</p>
+
+<table>
+<thead>
+<tr>
+<th>Icon</th>
+<th>File name</th>
+<th>Usage</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>NAVIGATION</strong></td>
+<td><strong>navigation-icons</strong></td>
+<td>These icons are the basis of most interactives.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/chevrons-all.png" alt="Chevron" /></td>
+<td>chevron-up, chevron-down, chevron-left, chevron-right</td>
+<td>Use chevrons for scrolling, or moving between items which are part of the same page/frame/content grouping. e.g. as part of a lightbox, on a timeline. These do not need to be labelled.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/arrows-all.png" alt="Arrows" /></td>
+<td>arrow-forward, arrow-back, arrow-up, arrow-down</td>
+<td>Arrows are used for going to a different section/piece of content in the interactive. The back arrow is used for going to back to the previous element in the IA. Arrows should be labelled clearly. Refer to the UI text section for labeling.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/home.png" alt="Home" /></td>
+<td>home</td>
+<td>Used to take users back to the main screen. Must have clear labelling. Consider use of back arrows instead for IAs that are not too deep.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/help-all.png" alt="Help" /></td>
+<td>help, help-outline</td>
+<td>Ideally, interactives should not require a help button due to clear and elegant UX. However, use this icon where instruction is needed.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/magnify.png" alt="Magnify" /></td>
+<td>magnify</td>
+<td>The magnify icon can be used as a button can be placed over images as a sign to expand the image.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/zoom-icons.png" alt="Zoom" /></td>
+<td>plus, minus</td>
+<td>In general, visitors should be able to pinch and zoom, and if you need zoom icons, turn the plus and minus signs into flat square buttons.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/search.png" alt="Search" /></td>
+<td>search</td>
+<td>Used for typed search boxes.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/close.png" alt="Close" /></td>
+<td>close</td>
+<td>This does not need a button around it unless that fits with your design.</td>
+</tr>
+
+<tr>
+<td><strong>AV CONTROLS</strong></td>
+<td><strong>av_controls</strong></td>
+<td>Use these to create AV players with your interactive. Do not use fast forward buttons - visitors should be able to toggle by dragging the time marker (as in YouTube).</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/play-circle.png" alt="Play circle" /></td>
+<td>play-circle</td>
+<td>This should be used in the centre of videos, as a layer on top of the video preview.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/headphones.png" alt="Headphones" /></td>
+<td>headphones</td>
+<td>As with the play circle, this should be used to indicate audio content.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/play-pause.png" alt="Play pause" /></td>
+<td>play,pause</td>
+<td>Use the play arrow as a button to launch a video (choose between this and play circle overlaid on video preview), or at the AV control along the bottom of videos. When a visitor hits pause, video pauses and icon changes to play icon.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/volume-all.png" alt="Volume" /></td>
+<td>volume-on, volume-off, volume-up, volume-down</td>
+<td>In most circumstances, volume should be set to a suitable level for the gallery space and not possible to adjust. Contact your project manager. Volume on should appear after a visitor touches volume off, and vice versa.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/replay.png" alt="Replay" /></td>
+<td>replay</td>
+<td>Replay the AV item</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/subtitles.png" alt="Subtitles" /></td>
+<td>subtitles</td>
+<td>Toggle subtitles on off, and use as menu for different languages if required</td>
+</tr>
+
+<tr>
+<td><strong>CONTENT</strong></td>
+<td><strong>content-icons</strong></td>
+<td>Content specific icons.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/map-all.png" alt="Map" /></td>
+<td>map-point, map-point-multiple</td>
+<td>Used to show a point on a map. Multiple point icon for zoomed out view of a cluster of points. If different points on a map show different types of content, look to use different icons for each content type, or consider creating custom icons.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/eye.png" alt="Eye" /></td>
+<td>eye</td>
+<td>For use as points on non-map surfaces, such as objects.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/create.png" alt="Create" /></td>
+<td>create</td>
+<td>Used if visitor has the opportunity to draw or make something within the interactive. Clearly label what they will create.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/undo.png" alt="Undo" /></td>
+<td>undo</td>
+<td>Used in creation process to undo last visitor input.</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/backspace.png" alt="Backspace" /></td>
+<td>backspace</td>
+<td>For undoing typed visitor inputs</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/send.png" alt="Send" /></td>
+<td>send</td>
+<td>For sharing, sending, or submitting selections or user created content. Must be clearly labelled, e.g. Share to Facebook, Submit your design</td>
+</tr>
+
+<tr>
+<td><img src="https://aucklandmuseum.github.io/human-interface-guidelines/images/camera.png" alt="Camera" /></td>
+<td>camera</td>
+<td>To indicate visitor photo opportunities. Clearly label.</td>
+</tr>
+</tbody>
+</table>
 
 <h2 id="buttons">Buttons</h2>
 
