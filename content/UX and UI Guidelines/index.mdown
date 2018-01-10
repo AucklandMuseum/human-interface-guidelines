@@ -6,7 +6,9 @@ title: UX and UI Guidelines
 
 The Museum uses the Material Design icons, and a [community created set](https://materialdesignicons.com/) which includes outline versions of the icons. The table below indicates which icons we use for each function. Most icons will appear in a button or as part of an AV player.
 
-* [Download our selected Material Icons here.](/resources/am-higs-icons.zip) File names in this package are referred to below.
+* [Download our selected Material Icons here.](/resources/am-higs-icons.zip)
+
+File names in this package are referred to below.
 
 ### Icon Usage
 
