@@ -3,7 +3,7 @@ title: Auckland Museum - Human Interface Digital Guidelines
 type: index
 ---
 
-The aim of the Auckland Museum Human Interface Guidelines (HIGs) is to promote **a coherent visitor experience throughout galleries and exhibitions** - maintaining the look and feel over time and across interfaces.
+The aim of the Auckland Museum Human Interface Guidelines (HIGs) is to promote **a coherent digital visitor experience throughout galleries and exhibitions** - maintaining the look and feel over time and across interfaces.
 
 The HIGs are **for developers and designers** who are creating digital experiences for Auckland Museum. 
 
