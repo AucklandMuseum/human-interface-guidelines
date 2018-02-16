@@ -16,7 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</guid>
-      <description>We use Google Tag Manager (GTM) to assess the effectiveness of digital products once they are on the floor. We will send through a GTM snippet to be placed within the header of the HTML and/or Javascript. You are required to implement this code in your digital product, along with appropriate use of events to track visitor activity. In terms of what to measure, select what is most appropriate for the digital product you are producing.</description>
+      <description>We use Google Tag Manager (GTM) to assess the effectiveness of digital products once they are on the floor. We will send through a GTM snippet to be placed within the header of the HTML and/or Javascript. You are required to implement this code in your digital product, and if required, appropriate use of events to track visitor activity.
+In terms of what to measure, select what is most appropriate for the digital product you are producing.</description>
     </item>
     
   </channel>
