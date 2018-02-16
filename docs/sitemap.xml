@@ -3,6 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</loc>
+  </url>
+  
+  <url>
     <loc>https://aucklandmuseum.github.io/human-interface-guidelines/</loc>
     <priority>0</priority>
   </url>

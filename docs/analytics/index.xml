@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on Auckland Museum</title>
+    <link>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</link>
+    <description>Recent content in Analytics on Auckland Museum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aucklandmuseum.github.io/human-interface-guidelines/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analytics</title>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</guid>
+      <description>We use Google Analytics to assess the effectiveness of digital products once they are on the floor. We&amp;rsquo;ll send through a GTM snippet. You are required to implement this code in your digital product, along with appropriate use of events to track visitor activity. In terms of what to measure, select what is most appropriate for the digital product you are producing. Te Papa&amp;rsquo;s analytics guidelines provide a good guide as to what to consider.</description>
+    </item>
+    
+  </channel>
+</rss>

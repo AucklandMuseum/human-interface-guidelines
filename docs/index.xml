@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Analytics</title>
+      <link>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aucklandmuseum.github.io/human-interface-guidelines/analytics/</guid>
+      <description>We use Google Analytics to assess the effectiveness of digital products once they are on the floor. We&amp;rsquo;ll send through a GTM snippet. You are required to implement this code in your digital product, along with appropriate use of events to track visitor activity. In terms of what to measure, select what is most appropriate for the digital product you are producing. Te Papa&amp;rsquo;s analytics guidelines provide a good guide as to what to consider.</description>
+    </item>
+    
+    <item>
       <title>Auckland Museum - Human Interface Digital Guidelines</title>
       <link>https://aucklandmuseum.github.io/human-interface-guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
