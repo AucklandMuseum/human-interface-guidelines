@@ -53,12 +53,17 @@ publishDir = "docs"
     weight = 30
 
 [[menu.main]]
+    name   = "Analytics"
+    url    = "analytics/"
+    weight = 40
+
+[[menu.main]]
     name   = "Inclusive Design"
     url    = "inclusive-design/"
-    weight = 40
+    weight = 50
 
  [[menu.main]]
     name   = "Auckland Museum Assets"
     url    = "auckland-museum-assets/"
-    weight = 50
+    weight = 60
 

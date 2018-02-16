@@ -1,0 +1,7 @@
+---
+title: Analytics
+---
+
+We use Google Analytics to assess the effectiveness of digital products once they are on the floor. We'll send through a GTM snippet. You are required to implement this code in your digital product, along with appropriate use of events to track visitor activity. <!-- Refer to the 'Virtual pageviews and events' section in the [Auckland Museum (web) analytics guidelines](http://www.aucklandmuseum.com/toolkit/google-analytics-tips). !-->
+
+In terms of **what to measure**, select what is most appropriate for the digital product you are producing. [Te Papa's analytics guidelines](https://te-papa.github.io/_pages/foundations/analytics/) provide a good guide as to what to consider.

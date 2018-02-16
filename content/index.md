@@ -26,6 +26,7 @@ If something doesn't make sense or is unrealistic for your particular digital pr
 * [Digital Experience Design Principles](./digital-experience-design-principles)
 * [Visual design foundations](./visual-design-foundations)
 * [UX and UI guidelines](./ux-and-ui-guidelines)
+* [Analytics](./analytics)
 * [Inclusive design](./ui-text)
 * [Auckland Museum assets](./auckland-museum-assets)
 
