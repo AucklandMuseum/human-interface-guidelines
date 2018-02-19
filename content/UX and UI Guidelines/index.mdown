@@ -4,7 +4,7 @@ title: UX and UI Guidelines
 
 ## Icons
 
-The Museum uses the Material Design icons, and a [community created set](https://materialdesignicons.com/) which includes outline versions of the icons. The table below indicates which icons we use for each function. Most icons will appear in a button or as part of an AV player.
+The Museum uses the Material Design icons, plus a few from a community created Material Design set. The table below indicates which icons are used for each function. Most icons will appear in a button or as part of an AV player.
 
 * [Download our selected Material Icons here.](/resources/am-higs-icons.zip)
 
@@ -12,7 +12,9 @@ File names in this package are referred to below.
 
 ### Icon Usage
 
-In general, use outline versions of icons, contained in a [button](button link), where available. Filled in icons should be used when the icon is directly covering the content (therefore making the icon harder to see if it was an outline) - such as a play icon over a video, or a pointer / eye icon used over a map. 
+In general, use outline versions of icons, contained in a button, where available. Filled in icons should be used when the icon is directly covering the content (therefore making the icon harder to see if it was an outline) - such as a play icon over a video, or a pointer / eye icon used over a map. 
+
+Let your project manager know if you need to use an icon that isn't specified on this page. Please propose an icon from the original [Material Design icons](https://material.io/icons/) or the [community created set](https://materialdesignicons.com/).
 
 Please adhere to the following guidelines around icon usage.
 
@@ -45,13 +47,14 @@ Icon | File name | Usage
 
 ## Buttons
 
-Buttons can comprise of icons and/or text. Buttons with text should have a rounded, weighted border, buttons with icons and text should have a square border. No outline is also an option if that fits best your design.
+Buttons can comprise of icons and/or text. Buttons with text should have a rounded, weighted border, buttons with icons and text should have a square border. No outline is also an option if that fits best with your design.
 
 Please adhere to the [Material Design button guidelines](https://material.io/guidelines/components/buttons.html), noting the following:
 
-* The exact dp guidelines do not have to be matched
-* Select from the three button types as appropriate
+* The exact dp/pixel guidelines do not have to be matched
+* Select from the three button types as appropriate: floating action, raised, flat
 * Do not use capitals – use sentence case
+
 ---
 
 ## UI Text
