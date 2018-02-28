@@ -13,7 +13,7 @@ The wide audience range of Auckland Museum creates interesting challenges for in
 <!-- {{< vimeo src="228890575" title="Our spaces" caption="With every exhibition there is are different requirements and different opportunities to use digital interfaces, in to bring the audience closer to the content." >}}
  -->
 
- {{< image src="/images/20170814-MuseumContext-illos.png" title="Our spaces" caption="A representation of common digital interactive executions." >}}
+<!-- {{< image src="/images/20170814-MuseumContext-illos.png" title="Our spaces" caption="A representation of common digital interactive executions." >}} -->
 
 ### Environmental factors
 The design of audio for interactives should into account background noise levels, which may vary widely, and overflow into adjacent spaces. Relying on audio for user feedback may not be sufficient in some circumstances.
